@@ -1,5 +1,5 @@
 # LiChess
-analysis and processing of data from large files using the Thread Pool Design Pattern with a multi-user architecture via a TCP network.
+Processing and analysis data from large files using the Thread Pool Design Pattern with a multi-user architecture via a TCP network.
 
 # To execute the project:
 It will be necessary to put the data file in the "data" folder at the same level as pgnHandler and execute the Main class (java data/Main data/myFile.pgn) and then launch the server and the client and follow the "test game" part described in the report.
