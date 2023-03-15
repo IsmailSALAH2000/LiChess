@@ -9,5 +9,4 @@ The principle is to retrieve the data.pgn file that is browsed while creating in
 
 ![image](https://user-images.githubusercontent.com/116093616/225275643-e421a0dc-35ea-471c-b1cf-2ba2d042ef12.png)
 
-#Credit
-the network part was made by ROBINET Perrine
+#the network part was made by ROBINET Perrine
